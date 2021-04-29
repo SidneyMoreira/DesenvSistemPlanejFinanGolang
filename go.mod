@@ -1,4 +1,4 @@
-module github.com/SidneyMoreira/bootCampsDIO/LabsPro/DesenvSistemPlanejFinanGolang
+module github.com/SidneyMoreira/DesenvSistemPlanejFinanGolang
 
 go 1.16
 
